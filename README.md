@@ -1,4 +1,4 @@
-### Olá, sejam muito bem vindos ao meu perfil!
+### Uma rápida introdução sobre mim...
 
 
   <img width="60%" height="100%" src="/perfil2.png">
