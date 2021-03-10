@@ -1,7 +1,7 @@
 ### Olá, sejam muito bem vindos ao meu perfil!
 
 
-  <img width="300px" height="400px" src="/perfil.png">
+  <img width="100%" height="100%" src="/perfil2.png">
   
 
 
