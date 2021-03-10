@@ -3,7 +3,7 @@
 
   <img width="60%" height="100%" src="/perfil2.png">
   
-## Minhas Habilidades:
+## Possuo habilidades em:
 <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"></img>
 <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" style="max-width:100%;"></img>
 <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width:100%;"></img>
@@ -12,6 +12,8 @@
 
 ## Status gerais do meu perfil:
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGeovani&theme=default&show_icons=true)
+
+
 
 ## Minhas Redes Sociais: 
 <a href="https://www.instagram.com/v_geovanix/" target="_blank">
