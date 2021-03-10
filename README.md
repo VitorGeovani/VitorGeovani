@@ -10,8 +10,8 @@
 <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;"></img>
 <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;"></img>
 
-## Status do meu perfil:
-
+## Status gerais do meu perfil:
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGeovani&theme=default&show_icons=true)
 
 ## Minhas Redes Sociais: 
 <a href="https://www.instagram.com/v_geovanix/" target="_blank">
