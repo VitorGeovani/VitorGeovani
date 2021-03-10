@@ -24,3 +24,6 @@
 <a href="https://www.facebook.com/opoderosovithor" target="_blank">
 <img align="center" alt="vitor-face" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;">
 </a>
+<a href="https://www.reddit.com/user/VithorOdinson" target="_blank">
+<img align="center" alt="vitor-reddit" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" style="max-width:100%;">
+</a>
