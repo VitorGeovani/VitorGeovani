@@ -21,6 +21,12 @@
 </img>
 <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="max-width:100%;">
 </img>
+<img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="max-width:100%;">
+</img>
+<img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" style="max-width:100%;">
+</img>
+<img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="max-width:100%;">
+</img>
 
 ## Status gerais do meu perfil:
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGeovani&theme=default&show_icons=true)
