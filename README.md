@@ -1,7 +1,7 @@
-## Uma rápida introdução sobre mim...
+## Olá, seja muito bem vindo(a) ao meu perfil!
 
 
-  <img width="60%" height="100%" src="/perfil2.png">
+  <img width="60%" height="100%" src="/3YTP.gif">
   
 ## Possuo habilidades em:
 <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"></img>
