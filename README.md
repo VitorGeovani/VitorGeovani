@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Olá, seja muito bem vindo(a) ao meu perfil!
 
 
@@ -28,11 +30,22 @@
 <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="max-width:100%;">
 </img>
 
+<br>
+
+
+  
 ## Status gerais do meu perfil:
+  
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGeovani&theme=default&show_icons=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGeovani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/034605c20258d019236c6b8e99280f9872a85401afc3b32be1182e46bf615fba/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d417468696c61732d53696c7661"><img src="https://camo.githubusercontent.com/034605c20258d019236c6b8e99280f9872a85401afc3b32be1182e46bf615fba/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d417468696c61732d53696c7661" data-canonical-src="https://komarev.com/ghpvc/?username=VitorGeovani" style="max-width: 100%;"></a>
+</p>
+  
+<div>
 
 
 ## Minhas Redes Sociais: 
