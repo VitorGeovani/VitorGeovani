@@ -42,7 +42,7 @@
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGeovani&theme=default&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGeovani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGeovani&layout=compact)](https://github.com/VitorGeovani)
 
 
 ## My Social Networks 
