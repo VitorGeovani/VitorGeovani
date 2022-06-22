@@ -1,11 +1,10 @@
 <div align="center">
 
-## Olá, seja muito bem vindo(a) ao meu perfil!
-
+## Hello, welcome to my profile!
 
   <img width="60%" height="100%" src="/3YTP.gif">
   
-## Possuo habilidades em:
+## My skills
 <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"></img>
 <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" style="max-width:100%;"></img>
 <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width:100%;"></img>
@@ -36,8 +35,9 @@
 </img>
 <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width:100%;">
 </img>
+<br>
   
-## Status gerais do meu perfil:
+## General status of my profile
   
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGeovani&theme=default&show_icons=true)
 
@@ -45,7 +45,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGeovani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Minhas Redes Sociais: 
+## My Social Networks 
 <a href="https://www.instagram.com/v_geovanix/" target="_blank">
 <img align="center" alt="vitor-insta" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
 </a>
