@@ -38,11 +38,18 @@
 <br>
   
 ## General status of my profile
+
+<div align="center">
   
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGeovani&theme=default&show_icons=true)
+<img height="180em" alt="Vitor Geovani GithUb Status" src="https://github-readme-stats.vercel.app/api?username=VitorGeovani&theme=default&show_icons=true" style="max-width: 100%;">
 
+<img height="180em" alt="Vitor Geovani Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGeovani&layout=compact" style="max-width: 100%;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGeovani&layout=compact)](https://github.com/VitorGeovani)
+<img height="180em" alt="Vitor Geovani Contributions" src="http://github-readme-streak-stats.herokuapp.com?user=VitorGeovani&locale=pt-br" style="max-width: 100%;">
+
+<img height="350em" alt="Vitor Geovani Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=VitorGeovani&amp;bg_color=141414&amp;color=FFFFFF&amp;line=ea8204&amp;point=c3c3c3&amp;hide_border=true" style="max-width: 100%;">
+
+</div>
 
 
 ## My Social Networks 
