@@ -41,9 +41,9 @@
 
 <div align="center">
   
-<img height="180em" alt="Vitor Geovani GithUb Status" src="https://github-readme-stats.vercel.app/api?username=VitorGeovani&theme=default&show_icons=true" style="max-width: 100%;">
+<img height="180em" alt="Vitor Geovani GithUb Status" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VitorGeovani&theme=default&show_icons=true" style="max-width: 100%;">
 
-<img height="180em" alt="Vitor Geovani Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGeovani&layout=compact" style="max-width: 100%;">
+<img height="180em" alt="Vitor Geovani Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VitorGeovani&layout=compact" style="max-width: 100%;">
 
 <img height="180em" alt="Vitor Geovani Contributions" src="http://github-readme-streak-stats.herokuapp.com?user=VitorGeovani&hide_border=true" style="max-width: 100%;">
 
