@@ -38,9 +38,7 @@
   
 <img height="180em" alt="Vitor Geovani Github Status" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorGeovani&theme=default&show_icons=true" style="max-width: 100%;">
 
-<img height="180em" alt="Vitor Geovani Top Langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VitorGeovani&layout=compact" style="max-width: 100%;">
-
-<img height="180em" alt="Vitor Geovani Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGeovani&hide_progress=true" style="max-width: 100%;">
+<img height="180em" alt="Vitor Geovani Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGeovani&layout=compact" style="max-width: 100%;">
 
 <img height="180em" alt="Vitor Geovani Contributions" src="http://github-readme-streak-stats.herokuapp.com?user=VitorGeovani&hide_border=true" style="max-width: 100%;">
 
